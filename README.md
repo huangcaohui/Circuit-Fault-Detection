@@ -3,17 +3,17 @@ Fault Detection of Single Tube Amplifier Circuit For 2019 TI Cup
 
 ## Utilization of on-board resources£º
 
-	Usart1£ºPA.9,10
+	Usart1: PA.9,10
 
-	KEY£ºPA.0
+	KEY: PA.0
 	     PE.3,4
 
-	LED£ºPF.9,10
+	LED: PF.9,10
 
-	AD9910£ºPA.0~7
+	AD9910: PA.0~7
 		PC.3,4
 
-	AD7606£ºPA.1~7
+	AD7606: PA.1~7
 		PF.0~7,15
 		PG.0~7
     
